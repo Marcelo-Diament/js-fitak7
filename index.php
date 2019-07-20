@@ -42,7 +42,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="msapplication-TileColor" content="#039FCE">
     <meta name="theme-color" content="#039FCE">
-	<link rel="icon" sizes="581x334" href="https://djament.com.br/estudos/js-fitak7/assets/img/k7.png">
+	<link rel="icon" sizes="512x512" href="https://djament.com.br/favicons/favicon-512x512.png">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.9.0/css/all.css" integrity="sha384-vlOMx0hKjUCl4WzuhIhSNZSm2yQCaf0mOU1hEDK/iztH3gU4v5NMmJln9273A6Jz" crossorigin="anonymous">
 	<link href="https://fonts.googleapis.com/css?family=Caveat|Darker+Grotesque&display=swap" rel="stylesheet">
