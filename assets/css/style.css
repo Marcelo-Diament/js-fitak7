@@ -21,6 +21,9 @@ ul {
 strike {
 	color: darkblue;
 }
+i {
+	color: black;
+}
 #fitaK7 {
 	border-radius: 20px;
 	min-height: 320px;
